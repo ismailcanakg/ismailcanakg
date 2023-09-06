@@ -8,7 +8,7 @@ You can reach out to me on GitHub by sending a message through this profile or b
 
 ## 🌐 Other Links
 
-- [<img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo.png" alt="external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo"/>](https://www.linkedin.com/in/ismail-can-akg%C3%BCn-6492121a0)
+- [<img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo.png" alt="external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo"/>](https://www.linkedin.com/in/ismail-can-akg%C3%BCn-6492121a0)
 
 ## 📚 Languages
 - <img width="50" height="50" src="https://img.icons8.com/plasticine/100/swift--v2.png" alt="swift--v2"/><img width="50" height="50" src="https://img.icons8.com/plasticine/100/swiftui.png" alt="swiftui"/>
