@@ -4,7 +4,7 @@ I'm Ismail Can Akgün, and on this GitHub profile, I share my passion for softwa
 
 ## 📫 Contact Me
 
-You can reach out to me on GitHub by sending a message through this profile or by contacting me via my [email address](ismailcanakg1@gmail.com).
+You can reach out to me on GitHub by sending a message through this profile or by contacting me via my [emailaddress(ismailcanakg1@gmail.com).
 
 ## 🌐 Other Links
 
