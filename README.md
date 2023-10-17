@@ -26,7 +26,7 @@ Thank you for visiting my profile! You can find more projects and information he
 
 Ben Ismail Can Akgün ve bu GitHub profilinde yazılım geliştirme tutkumu ve deneyimlerimi paylaşıyorum. Yazılım dünyasına olan sevgim, sürekli olarak yeni şeyler öğrenmeme ve projeler oluşturmama ilham veriyor. Burada, üzerinde çalıştığım projeleri bulabilir, katkıda bulunabileceğiniz açık kaynak projeleri keşfedebilir ve benimle iletişime geçebilirsiniz.
 
-##📫 Benimle İletişime Geçin
+## 📫 Benimle İletişime Geçin
 
 GitHub üzerinden bu profil aracılığıyla mesaj göndererek veya benimle şu e-posta adresi üzerinden iletişime geçebilirsiniz: ismailcanakg1@gmail.com.
 
